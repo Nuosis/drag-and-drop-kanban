@@ -1,0 +1,13 @@
+{
+    "name": "drag-and-drop-kanban",
+    "Version": 1,
+    "requires": true,
+    "main": "index.html",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "Your Name",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
